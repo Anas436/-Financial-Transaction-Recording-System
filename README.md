@@ -1,1 +1,1 @@
-# -Financial-Transaction-Recording-System
+# Financial-Transaction-Recording-System
